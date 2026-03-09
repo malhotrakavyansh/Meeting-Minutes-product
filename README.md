@@ -18,7 +18,7 @@ It is designed to run seamlessly in **Google Colab** and showcases how to combin
 
 -  Takes **Denver council meeting MP3 audio**
 -  Transcribes the audio using the **Gemini API**
--  Analyzes the transcript using **LLaMA-3.x Instruct**
+-  Analyzes the transcript using **LLaMA-3.1 Instruct**
 -  Produces **Minutes of Meeting** in clean Markdown, including:
   - Summary
   - Discussion points
